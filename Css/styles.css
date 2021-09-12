@@ -1,0 +1,392 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#title{
+    background-color: #FFDA77;
+}
+
+.initial h1{
+    text-align: center;
+      font-size: 4rem;
+      padding-top: 30px;
+      font-family: 'Vollkorn', serif;      
+}
+
+
+.navbar-brand{
+    font-family: 'Bona Nova', serif;
+}
+
+.nav-item{
+    font-family: 'Bona Nova', serif;
+}
+
+.initial h2{
+    text-align: center;
+    padding-left: 350px;
+    font-family: 'Lobster Two', cursive;
+    font-size: 3rem;
+}
+
+.title-image{
+    width: 200px;
+}
+
+.first-image{
+    padding-left: 7rem;
+}
+.dream-x{
+    height: 500px;
+    padding-left: 300px;
+}
+
+.row{
+    padding-left: 160px;
+    padding-top: 35px;
+}
+
+p{
+    font-size: 22px;
+    font-family: 'Vollkorn', serif;  
+}
+
+.wedding-package{
+    padding-top: 1rem;
+}
+
+.image-text{
+    text-align: center;
+    font-size: 38px;
+    padding-top: 2rem;
+    font-family: 'Lobster Two', cursive;
+}
+
+#wedding-section{
+    background-color: #F98404;
+}
+
+.wedding-pic{
+    height: 500px;
+}   
+
+#wedding-section h2{
+    font-size: 3rem;
+    padding-right: 2rem;
+    padding-top: 6rem;
+    border-right: 100px;
+    font-family: 'Lobster Two', cursive;
+}
+
+#wedding-section h1{
+    font-size: 3rem;
+    font-family: 'Aladin', cursive;
+    padding-top: 2rem;
+    padding-left: 1rem;
+}
+
+.button{
+    padding-top: 3rem;
+    text-align: center;
+}
+
+.book{
+    padding-bottom: 1rem;
+    font-family: 'Castoro', serif;
+    font-weight: 700px;
+    font-size: 2rem;
+}
+
+.marraige{
+    font-family: 'Cardo', serif;
+    font-weight: 700;
+    font-size: 2.2rem;
+    padding-top: 1rem;
+}
+
+.grab{
+    font-family: 'Rancho', cursive;
+    font-weight: 500;
+    font-size: 2.5rem;
+}
+
+.btn{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#fashion-section{
+    background-color: #C490E4;
+}
+
+.fashion{
+    height: 300px;
+}
+
+.fashion1{
+    padding-left: 2rem;
+    z-index: 1;
+}
+
+.fashion2{
+    position: relative;
+    top: 2rem;
+}
+
+.fashion3{
+    position: relative;
+    top: 4rem;
+}
+
+.fashion4{
+    position: relative;
+    top: 6rem;
+}
+
+.fashion5{
+    position: relative;
+    top: 8rem;
+}
+
+.fashion6{
+    position: relative;
+    top: 10rem;
+}
+
+#fashion-section h2{
+    padding-top: 13rem;
+}
+
+.fashion-text{
+    text-align: center;
+}
+
+.fashionh1{
+    font-family: 'Aladin', cursive;
+    font-size: 3rem;
+    padding-top: 2rem;
+    padding-left: 1rem;
+    padding-bottom: 2rem;
+}
+
+.fashioned{
+    font-family: 'Lobster Two', cursive;
+    font-size: 3.5rem;
+}
+
+.weekend{
+    font-family: 'Rancho', cursive;
+    font-weight: 500;
+    font-size: 2.8rem;
+    padding-top: 1rem;
+}
+
+#portrait-section{
+    background-color: #0061A8;
+}
+
+.row{
+    padding-left: 68px;
+}
+
+.portrait1{
+    height: 400px;
+}
+
+.portrait2{
+    height: 400px;
+}
+
+.portrait3{
+    height: 400px;
+}
+
+.colourful{
+    padding-top: 3rem;
+    text-align: center;
+    font-family: 'Vollkorn', serif;
+    font-weight: 600px;
+    font-size: 2rem;    
+}
+
+.portrait{
+    text-align: center;
+    padding-top: 1rem;
+    font-family: 'Aladin', cursive;
+    font-size: 3rem;
+}
+
+.exclusive{
+    text-align: center;
+    padding-top: 2rem;
+    font-family: 'Lobster Two', cursive;
+    font-weight: 900px;
+    font-size: 3rem;
+    padding-right: 3rem;
+}
+
+.july{
+    text-align: right;
+    padding-right: 10rem;
+    font-family: 'Castoro', serif;
+    padding-top: 3rem;
+    font-size: 40px;
+}
+
+.pre{
+    text-align: right;
+    padding-right: 1rem;
+    font-family: 'Castoro', serif;
+    font-size: 2rem;
+
+}
+
+.order{
+    text-align: right;
+    padding-right: 17rem;
+}
+
+#about-us{
+    background-color: #C8C6A7;
+}
+
+.about{
+    text-align: center;
+    padding-top: 2rem;
+    font-family: 'Aladin', cursive;
+    font-size: 3rem;
+}
+
+.create{
+    padding-left: 50rem;
+    font-family: 'Lobster Two', cursive;
+}
+.description{
+    padding-left: 5rem;
+    font-family: 'Lobster Two', cursive;
+    font-size: 2rem;
+}
+
+.final{
+    padding-top: 2rem;
+}
+
+.dream{
+    text-align: right;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    font-family: 'Bona Nova', serif;
+    font-weight: 900px; 
+}
+
+.app{
+    padding-top: 2rem;
+    padding-left: 1rem;
+    font-family: 'Lobster Two', cursive;
+}
+
+.download{
+    padding-left: 8rem;
+}
+
+#footer{
+    background-color: #C8C6A7;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.footer-image{
+    padding-left: 3rem;
+    font-size: 20px;
+}
+
+.copyright{
+    padding-top: 1rem;
+    font-size: 15px;
+    padding-left: 2rem;
+}
+
+@media (max-width: 576px) {
+    .initial h1{
+        text-align: center;
+          font-size: 2rem;
+          padding-top: 30px;
+          font-family: 'Vollkorn', serif;      
+    }
+    
+    .initial h2{
+        text-align: center;
+        padding-left: 280px;
+        font-family: 'Lobster Two', cursive;
+        font-size: 30px;
+    }
+    
+    .wedding-pic{
+         height: 400px;
+         padding-left: 2rem;
+}  
+    .dream-x{
+        height: 250px;
+        padding-left: 60px;
+    }
+
+    .fashion{
+        height: 100px;
+    }
+    .portrait1{
+        padding-left: 100px;
+        padding-bottom: 70px;
+    }
+    .portrait2{
+        padding-left: 100px;
+        padding-bottom: 70px;
+    }
+    .portrait3{
+        padding-left: 100px;
+        padding-bottom: 70px;
+    }
+    .exclusive{
+        padding-left: 2rem;
+    }
+    .july{
+        text-align: right;
+        padding-right: 2rem;
+        font-family: 'Castoro', serif;
+        padding-top: 3rem;
+        font-size: 30px;
+    }
+   
+.pre{
+    text-align: right;
+    padding-right: 1rem;
+    font-family: 'Castoro', serif;
+    font-size: 22px;
+}
+.description{
+    padding-left: 2rem;
+    font-family: 'Lobster Two', cursive;
+    font-size: 30px;
+}
+.create{
+    padding-left: 6rem;
+    font-family: 'Lobster Two', cursive;
+}
+.row{
+    padding-left: 120px;
+    padding-top: 35px;
+    padding-left: 2rem;
+}
+   
+.order{
+    text-align: right;
+    padding-left: 19rem;
+} 
+.dream{
+    font-size: 30px;
+}
+.app{
+    font-size: 30px;
+}
+
+}
